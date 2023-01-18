@@ -1,6 +1,6 @@
 """
 The Sparks Foundation
-Task-3 Social Distance Detection
+Task-1 Social Distance Detection
 @author: Annika kumar
 """
 
